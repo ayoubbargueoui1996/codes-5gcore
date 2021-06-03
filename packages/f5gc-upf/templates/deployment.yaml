@@ -2,7 +2,6 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: f5gc-upf
-  namespace: free5gcore-superg
   labels:
     app: f5gc-upf
     sliceidx: 6d3d79da-f781-4cd9-813a-dbdad01e01c0
