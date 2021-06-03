@@ -2,5 +2,3 @@ apiVersion: v1
 kind: Namespace
 metadata:
   name: free5gcore-superg
-  labels:
-    name: free5gcore-superg

@@ -5,7 +5,6 @@ metadata:
   labels:
     app: f5gc-mongodb
   name: f5gc-mongodb
-  namespace: free5gcore-superg
 spec:
   type: ClusterIP
   ports:

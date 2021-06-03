@@ -2,6 +2,5 @@ kind: ConfigMap
 apiVersion: v1
 metadata:
   name: f5gc-mongodb-data
-  namespace: free5gcore-superg
 data:
   # Test
