@@ -4,7 +4,6 @@ metadata:
   labels:
     app: f5gc-smf
   name: f5gc-smf
-  namespace: free5gcore-superg
 spec:
   type: ClusterIP
   ports:
