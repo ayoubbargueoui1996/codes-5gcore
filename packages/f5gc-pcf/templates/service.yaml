@@ -4,7 +4,6 @@ metadata:
   labels:
     app: f5gc-pcf
   name: f5gc-pcf
-  namespace: free5gcore-superg
 spec:
   type: ClusterIP
   ports:
