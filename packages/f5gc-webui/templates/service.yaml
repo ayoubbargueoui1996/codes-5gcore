@@ -4,7 +4,6 @@ metadata:
   labels:
     app: f5gc-webui
   name: f5gc-webui
-  namespace: free5gcore-superg
 spec:
   type: NodePort
   ports:
