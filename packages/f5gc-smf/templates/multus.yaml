@@ -3,7 +3,6 @@ apiVersion: "k8s.cni.cncf.io/v1"
 kind: NetworkAttachmentDefinition 
 metadata:
   name: f5gc-smf-n4
-  namespace: free5gcore-superg
 spec:
   config: '{ 
       "cniVersion": "0.3.1",
