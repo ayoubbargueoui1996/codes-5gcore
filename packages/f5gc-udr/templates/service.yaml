@@ -4,7 +4,6 @@ metadata:
   labels:
     app: f5gc-udr
   name: f5gc-udr
-  namespace: free5gcore-superg
 spec:
   type: ClusterIP
   ports:
