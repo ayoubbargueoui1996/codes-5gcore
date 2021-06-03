@@ -2,6 +2,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: f5gc-amf-config
+  namespace: free5gcore-superg
 data:
   amfcfg.conf: |
     info:
@@ -134,7 +135,7 @@ apiVersion: v1
 kind: Secret
 metadata:
     name: f5gc-amf-tls-secret
-    namespace: 77fdb5d1-47d5-46bf-95ef-867230f8b5f9 
+    namespace: free5gcore-superg 
 type: Opaque
 data:
    {{ tpl (.Files.Glob "resources/config/cert/amf.pem").AsSecrets . | indent 2 }}

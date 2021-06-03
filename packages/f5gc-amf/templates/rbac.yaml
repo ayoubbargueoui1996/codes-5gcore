@@ -9,4 +9,4 @@ roleRef:
 subjects:
 - kind: ServiceAccount
   name: f5gc-amf-sa
-  namespace: 77fdb5d1-47d5-46bf-95ef-867230f8b5f9
+  namespace: free5gcore-superg

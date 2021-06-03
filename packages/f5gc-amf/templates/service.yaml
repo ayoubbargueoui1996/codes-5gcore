@@ -4,6 +4,7 @@ metadata:
   labels:
     app: f5gc-amf
   name: f5gc-amf
+  namespace: free5gcore-superg
 spec:
   type: ClusterIP
   ports:
