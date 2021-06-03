@@ -2,4 +2,3 @@ apiVersion: v1
 kind: ServiceAccount
 metadata:
   name: f5gc-upf-sa
-  namespace: free5gcore-superg
