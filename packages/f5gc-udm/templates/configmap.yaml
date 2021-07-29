@@ -124,7 +124,7 @@ apiVersion: v1
 kind: Secret
 metadata:
    name: f5gc-udm-tls-secret
-   namespace: 83f981a7-22ef-4cd7-be5f-48a56134524c
+   namespace: 6509cfae-e3dc-490c-86e1-1e4c1b228abd
 type: Opaque
 data:
    {{ tpl (.Files.Glob "resources/config/cert/udm.pem").AsSecrets . | indent 2 }}
