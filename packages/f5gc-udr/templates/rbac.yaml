@@ -9,4 +9,4 @@ roleRef:
 subjects:
 - kind: ServiceAccount
   name: f5gc-udr-sa
-  namespace: 83f981a7-22ef-4cd7-be5f-48a56134524c
+  namespace: ec0e77bd-3aa9-4772-a14f-343430ed61c1
