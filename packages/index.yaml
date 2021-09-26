@@ -1,0 +1,113 @@
+apiVersion: v1
+entries:
+  f5gc-amf:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-09-26T17:12:51.202052407Z"
+    description: A Helm chart for Kubernetes
+    digest: 12225acb412ed77ca2ba1c5997d4dbacba9d7e105c18c991a292e292a26307c2
+    name: f5gc-amf
+    urls:
+    - f5gc-amf-0.1.0.tgz
+    version: 0.1.0
+  f5gc-ausf:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-09-26T17:12:51.203418735Z"
+    description: A Helm chart for Kubernetes
+    digest: 7c57c8556387ea1b3eac38fb09aa4683efd2a9d75c4ed6998402066b8c5f3840
+    name: f5gc-ausf
+    urls:
+    - f5gc-ausf-0.1.0.tgz
+    version: 0.1.0
+  f5gc-mongodb:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-09-26T17:12:51.204370086Z"
+    description: A Helm chart for Kubernetes
+    digest: b3bb427bb4bb1367f0ee9ef6807ff7237a1aea410084da580c23257366beb17c
+    name: f5gc-mongodb
+    urls:
+    - f5gc-mongodb-0.1.0.tgz
+    version: 0.1.0
+  f5gc-nrf:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-09-26T17:12:51.205712458Z"
+    description: A Helm chart for Kubernetes
+    digest: 1db3bc81a060b029b82e3545662380f175331ea8e24a7c2fb71b290c3821183d
+    name: f5gc-nrf
+    urls:
+    - f5gc-nrf-0.1.0.tgz
+    version: 0.1.0
+  f5gc-nssf:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-09-26T17:12:51.207196783Z"
+    description: A Helm chart for Kubernetes
+    digest: b2c8285dc3d568aab419f6274948b6f79f18312bbbb722a22ad68b1525ed4a0e
+    name: f5gc-nssf
+    urls:
+    - f5gc-nssf-0.1.0.tgz
+    version: 0.1.0
+  f5gc-pcf:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-09-26T17:12:51.208788478Z"
+    description: A Helm chart for Kubernetes
+    digest: 5ea1cb14b2b25926e0873fad5af097dfe3c62558ffb2d4cc804d459317c90f8a
+    name: f5gc-pcf
+    urls:
+    - f5gc-pcf-0.1.0.tgz
+    version: 0.1.0
+  f5gc-smf:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-09-26T17:12:51.210419797Z"
+    description: A Helm chart for Kubernetes
+    digest: f1560e129ad855fb84221e848dd73e4cbad060b2018cad5455ed0985c987a1c2
+    name: f5gc-smf
+    urls:
+    - f5gc-smf-0.1.0.tgz
+    version: 0.1.0
+  f5gc-udm:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-09-26T17:12:51.21280732Z"
+    description: A Helm chart for Kubernetes
+    digest: 56ea07b38235c406699b4c392217a82e80f3bae1c6c0675544c055b741353261
+    name: f5gc-udm
+    urls:
+    - f5gc-udm-0.1.0.tgz
+    version: 0.1.0
+  f5gc-udr:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-09-26T17:12:51.215172512Z"
+    description: A Helm chart for Kubernetes
+    digest: f806379e3d14b8d5ca14c1a399443f49d49b50ed98b08e4bcf67c5a19ef2c0a6
+    name: f5gc-udr
+    urls:
+    - f5gc-udr-0.1.0.tgz
+    version: 0.1.0
+  f5gc-upf:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-09-26T17:12:51.217404831Z"
+    description: A Helm chart for Kubernetes
+    digest: 4d91c2c45d13ccb0539c31eb8328c38f64a9ca1f70e3a0aa91ad77e64a437f8f
+    name: f5gc-upf
+    urls:
+    - f5gc-upf-0.1.0.tgz
+    version: 0.1.0
+  f5gc-webui:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-09-26T17:12:51.219386723Z"
+    description: A Helm chart for Kubernetes
+    digest: f79ccd8ff68ac9668c7caa14af28ee8e51974300f45dd365f5ccc68b8ceaf36d
+    name: f5gc-webui
+    urls:
+    - f5gc-webui-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-09-26T17:12:51.200056265Z"
