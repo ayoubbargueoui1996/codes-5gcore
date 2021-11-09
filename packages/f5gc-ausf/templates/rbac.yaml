@@ -9,4 +9,4 @@ roleRef:
 subjects:
 - kind: ServiceAccount
   name: f5gc-ausf-sa
-  namespace: ec0e77bd-3aa9-4772-a14f-343430ed61c1
+  namespace: aa7a0aa0f25b40e69e8fe4e6d54edf68
