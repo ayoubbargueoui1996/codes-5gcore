@@ -1,5 +1,6 @@
 apiVersion: apps/v1
 kind: StatefulSet
+namespace: 6509cfae-e3dc-490c-86e1-1e4c1b228abd
 metadata:
   name: f5gc-mongodb
 spec:
